@@ -1,0 +1,15 @@
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\bin\Debug\net7.0\finalprogram.exe
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\bin\Debug\net7.0\finalprogram.deps.json
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\bin\Debug\net7.0\finalprogram.runtimeconfig.json
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\bin\Debug\net7.0\finalprogram.dll
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\bin\Debug\net7.0\finalprogram.pdb
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.csproj.AssemblyReference.cache
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.AssemblyInfoInputs.cache
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.AssemblyInfo.cs
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.csproj.CoreCompileInputs.cache
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.dll
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\refint\finalprogram.dll
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.pdb
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\finalprogram.genruntimeconfig.cache
+D:\USER\Рабочий стол\курс разработчик\final\finalprogram\obj\Debug\net7.0\ref\finalprogram.dll
